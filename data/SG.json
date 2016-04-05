@@ -1,0 +1,14 @@
+[
+	{ "name" : "New Year's Day",                           "rule" : "January 1st"                           },
+	{ "name" : "Chinese New Year",                      "rule" : "February 8th"                           },
+	{ "name" : "Chinese New Year",                                 "rule" : "February 9th"                           },
+	{ "name" : "Good Friday",                       "rule" : "March 25th"                           },
+	{ "name" : "Labour Day",              "rule" : "May 1st"               },
+	{ "name" : "Vesak Day",                            "rule" : "May 21st"                          },
+	{ "name" : "Hari Raya Puasa",                          "rule" : "July 6th"                         },
+	{ "name" : "National Day",                             "rule" : August 9th"                           },
+	{ "name" : "Deepavali",                                "rule" : "October 29"                           },
+	{ "name" : "Christmas Eve",                            "rule" : "December 24th"                         },
+	{ "name" : "Christmas",                                "rule" : "December 25th"                         },
+	{ "name" : "New Year's Eve",                           "rule" : "December 31st"                         }
+]
